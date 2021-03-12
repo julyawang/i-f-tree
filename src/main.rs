@@ -44,7 +44,7 @@ fn height_main(max: u64) {
         file_name = format!("ifh{}.zok", i);
         let mut _file = File::create(file_name.clone()).expect("create failed");
         let mut content = "def main(private field a0".to_string();
-        let mut body = "    field res = (if a >= 18 then ".to_string();
+        let mut body = "    field res = (if a0 >= 18 then ".to_string();
         for j in 1..i {
             var = format!("a{}",j);
             content = format!("{}, {}", content, format!("private field {}", var));

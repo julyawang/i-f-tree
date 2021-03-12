@@ -1,4 +1,0 @@
-def main(private field a0, private field a1, private field a2, private field a3, private field a4, private field a5, private field a6, private field a7, private field a8, private field a9, private field a10, private field a11, private field a12, private field a13, private field a14, field a16) -> (field): 
-    field res = (if a >= 18 then (if a1 < 97 then (if a2 < 46 then (if a3 < 50 then (if a4 < 87 then (if a5 < 86 then (if a6 < 35 then (if a7 < 33 then (if a8 < 46 then (if a9 < 69 then (if a10 < 4 then (if a11 < 74 then (if a12 < 73 then (if a13 < 11 then (if a14 < 44 then  1 else 0 fi) else 0 fi) else 0 fi) else 0 fi) else 0 fi) else 0 fi) else 0 fi) else 0 fi) else 0 fi) else 0 fi) else 0 fi) else 0 fi) else 0 fi) else 0 fi) else 0 fi)
-    field verify = if res == a16 then 1 else 0 fi
-    return verify
