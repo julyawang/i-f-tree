@@ -1,0 +1,1300 @@
+file: /home/zokrates/.zokrates/examples/ifh1.zok
+compile
+Number of constraints: 920
+setup
+Has generated 767 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh2.zok
+compile
+Number of constraints: 1836
+setup
+Has generated 1528 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh3.zok
+compile
+Number of constraints: 2752
+setup
+Has generated 2289 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh4.zok
+compile
+Number of constraints: 3668
+setup
+Has generated 3050 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh5.zok
+compile
+Number of constraints: 4584
+setup
+Has generated 3811 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh6.zok
+compile
+Number of constraints: 5500
+setup
+Has generated 4572 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh7.zok
+compile
+Number of constraints: 6416
+setup
+Has generated 5333 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh8.zok
+compile
+Number of constraints: 7332
+setup
+Has generated 6094 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh9.zok
+compile
+Number of constraints: 8248
+setup
+Has generated 6855 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh10.zok
+compile
+Number of constraints: 9164
+setup
+Has generated 7616 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh11.zok
+compile
+Number of constraints: 10080
+setup
+Has generated 8377 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh12.zok
+compile
+Number of constraints: 10996
+setup
+Has generated 9138 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh13.zok
+compile
+Number of constraints: 11912
+setup
+Has generated 9899 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh14.zok
+compile
+Number of constraints: 12828
+setup
+Has generated 10660 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh15.zok
+compile
+Number of constraints: 13744
+setup
+Has generated 11421 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh16.zok
+compile
+Number of constraints: 14660
+setup
+Has generated 12182 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh17.zok
+compile
+Number of constraints: 15576
+setup
+Has generated 12943 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh18.zok
+compile
+Number of constraints: 16492
+setup
+Has generated 13704 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh19.zok
+compile
+Number of constraints: 17408
+setup
+Has generated 14465 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh20.zok
+compile
+Number of constraints: 18324
+setup
+Has generated 15226 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh21.zok
+compile
+Number of constraints: 19240
+setup
+Has generated 15987 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh22.zok
+compile
+Number of constraints: 20156
+setup
+Has generated 16748 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh23.zok
+compile
+Number of constraints: 21072
+setup
+Has generated 17509 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh24.zok
+compile
+Number of constraints: 21988
+setup
+Has generated 18270 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh25.zok
+compile
+Number of constraints: 22904
+setup
+Has generated 19031 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh26.zok
+compile
+Number of constraints: 23820
+setup
+Has generated 19792 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh27.zok
+compile
+Number of constraints: 24736
+setup
+Has generated 20553 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh28.zok
+compile
+Number of constraints: 25652
+setup
+Has generated 21314 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh29.zok
+compile
+Number of constraints: 26568
+setup
+Has generated 22075 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh30.zok
+compile
+Number of constraints: 27484
+setup
+Has generated 22836 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh31.zok
+compile
+Number of constraints: 28400
+setup
+Has generated 23597 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh32.zok
+compile
+Number of constraints: 29316
+setup
+Has generated 24358 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh33.zok
+compile
+Number of constraints: 30232
+setup
+Has generated 25119 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh34.zok
+compile
+Number of constraints: 31148
+setup
+Has generated 25880 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh35.zok
+compile
+Number of constraints: 32064
+setup
+Has generated 26641 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh36.zok
+compile
+Number of constraints: 32980
+setup
+Has generated 27402 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh37.zok
+compile
+Number of constraints: 33896
+setup
+Has generated 28163 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh38.zok
+compile
+Number of constraints: 34812
+setup
+Has generated 28924 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh39.zok
+compile
+Number of constraints: 35728
+setup
+Has generated 29685 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh40.zok
+compile
+Number of constraints: 36644
+setup
+Has generated 30446 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh41.zok
+compile
+Number of constraints: 37560
+setup
+Has generated 31207 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh42.zok
+compile
+Number of constraints: 38476
+setup
+Has generated 31968 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh43.zok
+compile
+Number of constraints: 39392
+setup
+Has generated 32729 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh44.zok
+compile
+Number of constraints: 40308
+setup
+Has generated 33490 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh45.zok
+compile
+Number of constraints: 41224
+setup
+Has generated 34251 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh46.zok
+compile
+Number of constraints: 42140
+setup
+Has generated 35012 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh47.zok
+compile
+Number of constraints: 43056
+setup
+Has generated 35773 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh48.zok
+compile
+Number of constraints: 43972
+setup
+Has generated 36534 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh49.zok
+compile
+Number of constraints: 44888
+setup
+Has generated 37295 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh50.zok
+compile
+Number of constraints: 45804
+setup
+Has generated 38056 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh51.zok
+compile
+Number of constraints: 46720
+setup
+Has generated 38817 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh52.zok
+compile
+Number of constraints: 47636
+setup
+Has generated 39578 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh53.zok
+compile
+Number of constraints: 48552
+setup
+Has generated 40339 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh54.zok
+compile
+Number of constraints: 49468
+setup
+Has generated 41100 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh55.zok
+compile
+Number of constraints: 50384
+setup
+Has generated 41861 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh56.zok
+compile
+Number of constraints: 51300
+setup
+Has generated 42622 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh57.zok
+compile
+Number of constraints: 52216
+setup
+Has generated 43383 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh58.zok
+compile
+Number of constraints: 53132
+setup
+Has generated 44144 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh59.zok
+compile
+Number of constraints: 54048
+setup
+Has generated 44905 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh60.zok
+compile
+Number of constraints: 54964
+setup
+Has generated 45666 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh61.zok
+compile
+Number of constraints: 55880
+setup
+Has generated 46427 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh62.zok
+compile
+Number of constraints: 56796
+setup
+Has generated 47188 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh63.zok
+compile
+Number of constraints: 57712
+setup
+Has generated 47949 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh64.zok
+compile
+Number of constraints: 58628
+setup
+Has generated 48710 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh65.zok
+compile
+Number of constraints: 59544
+setup
+Has generated 49471 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh66.zok
+compile
+Number of constraints: 60460
+setup
+Has generated 50232 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh67.zok
+compile
+Number of constraints: 61376
+setup
+Has generated 50993 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh68.zok
+compile
+Number of constraints: 62292
+setup
+Has generated 51754 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh69.zok
+compile
+Number of constraints: 63208
+setup
+Has generated 52515 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh70.zok
+compile
+Number of constraints: 64124
+setup
+Has generated 53276 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh71.zok
+compile
+Number of constraints: 65040
+setup
+Has generated 54037 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh72.zok
+compile
+Number of constraints: 65956
+setup
+Has generated 54798 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh73.zok
+compile
+Number of constraints: 66872
+setup
+Has generated 55559 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh74.zok
+compile
+Number of constraints: 67788
+setup
+Has generated 56320 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh75.zok
+compile
+Number of constraints: 68704
+setup
+Has generated 57081 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh76.zok
+compile
+Number of constraints: 69620
+setup
+Has generated 57842 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh77.zok
+compile
+Number of constraints: 70536
+setup
+Has generated 58603 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh78.zok
+compile
+Number of constraints: 71452
+setup
+Has generated 59364 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh79.zok
+compile
+Number of constraints: 72368
+setup
+Has generated 60125 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh80.zok
+compile
+Number of constraints: 73284
+setup
+Has generated 60886 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh81.zok
+compile
+Number of constraints: 74200
+setup
+Has generated 61647 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh82.zok
+compile
+Number of constraints: 75116
+setup
+Has generated 62408 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh83.zok
+compile
+Number of constraints: 76032
+setup
+Has generated 63169 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh84.zok
+compile
+Number of constraints: 76948
+setup
+Has generated 63930 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh85.zok
+compile
+Number of constraints: 77864
+setup
+Has generated 64691 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh86.zok
+compile
+Number of constraints: 78780
+setup
+Has generated 65452 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh87.zok
+compile
+Number of constraints: 79696
+setup
+Has generated 66213 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh88.zok
+compile
+Number of constraints: 80612
+setup
+Has generated 66974 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh89.zok
+compile
+Number of constraints: 81528
+setup
+Has generated 67735 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh90.zok
+compile
+Number of constraints: 82444
+setup
+Has generated 68496 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh91.zok
+compile
+Number of constraints: 83360
+setup
+Has generated 69257 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh92.zok
+compile
+Number of constraints: 84276
+setup
+Has generated 70018 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh93.zok
+compile
+Number of constraints: 85192
+setup
+Has generated 70779 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh94.zok
+compile
+Number of constraints: 86108
+setup
+Has generated 71540 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh95.zok
+compile
+Number of constraints: 87024
+setup
+Has generated 72301 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh96.zok
+compile
+Number of constraints: 87940
+setup
+Has generated 73062 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh97.zok
+compile
+Number of constraints: 88856
+setup
+Has generated 73823 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh98.zok
+compile
+Number of constraints: 89772
+setup
+Has generated 74584 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh99.zok
+compile
+Number of constraints: 90688
+setup
+Has generated 75345 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
+file: /home/zokrates/.zokrates/examples/ifh100.zok
+compile
+Number of constraints: 91604
+setup
+Has generated 76106 points
+Setup completed.
+compute-witness
+
+Witness: 
+
+["0"]
+generate-proof
+}
