@@ -1,0 +1,3 @@
+def main(private field a0, private field a1, private field a2, private field a3, private field a4, private field a5, private field a6, private field a7) -> (field): 
+    field res = (if a0 >= 20 then 1 else 0 fi) + (if a1 >= 368 then 1 else 0 fi) + (if a2 >= 352 then 1 else 0 fi) + (if a3 >= 396 then 1 else 0 fi) + (if a4 >= 339 then 1 else 0 fi) + (if a5 >= 358 then 1 else 0 fi) + (if a6 >= 366 then 1 else 0 fi) + (if a7 >= 390 then 1 else 0 fi)
+    return res

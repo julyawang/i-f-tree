@@ -1,0 +1,4 @@
+def main(private field a0, private field a1, private field a2, private field a3, private field a4, private field a5, private field a6, private field a7, private field a8, private field a9, private field a10, field a12) -> (field): 
+    field res = (if a0 >= 18 then (if a1 < 922 then (if a2 < 962 then (if a3 < 981 then (if a4 < 902 then (if a5 < 978 then (if a6 < 989 then (if a7 < 915 then (if a8 < 956 then (if a9 < 900 then (if a10 < 995 then  1 else 0 fi) else 0 fi) else 0 fi) else 0 fi) else 0 fi) else 0 fi) else 0 fi) else 0 fi) else 0 fi) else 0 fi) else 0 fi)
+    field verify = if res == a12 then 1 else 0 fi
+    return verify

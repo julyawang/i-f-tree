@@ -10,7 +10,7 @@ use rand::Rng;
 fn main() {
 //    width_main(0,100);
 //    height_main(0, 100);
-//    width_main(100,200);
+    width_main(100,200);
 //    height_main(100,200);
 //    width_main(200, 300);
 //    height_main(200, 300);
@@ -21,7 +21,7 @@ fn main() {
 //    width_main(500, 600);
 //    height_main(500, 600);
 //    width_main(600, 700);
-    height_main(600, 700);
+//    height_main(600, 700);
 //    width_main(700, 800);
 //    height_main(700, 800);
 //    width_main( 800, 900);
@@ -33,7 +33,7 @@ fn main() {
 fn width_main(min: u64, max: u64) {
     let mut file_name: String = "ifw".to_string();
     let mut var: String = "a".to_string();
-    for i in min..(max+1) {
+    for i in 0..101 {
         file_name = format!("ifw{}.zok", i);
 //        println!("{}", file_name);
         let mut _file = File::create(file_name.clone()).expect("create failed");
@@ -58,7 +58,7 @@ fn height_main(min:u64, max: u64) {
     let mut file_name: String = "ifh".to_string();
     let mut var: String = "a".to_string();
     let mut rng = rand::thread_rng();
-    for i in min..(max+1) {
+    for i in 0..101 {
         file_name = format!("ifh{}.zok", i);
         let mut _file = File::create(file_name.clone()).expect("create failed");
         let mut content = "def main(private field a0".to_string();
