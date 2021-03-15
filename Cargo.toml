@@ -8,3 +8,4 @@ edition = "2018"
 
 [dependencies]
 rand = "0.3.17"
+num-traits = "0.2.14"

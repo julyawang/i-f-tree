@@ -1,0 +1,4 @@
+def main(private field a0, field a2) -> (field): 
+    field res = (if a0 >= 2245 then 1 else 0 fi)
+    field verify = if res == a2 then 1 else 0 fi
+    return verify

@@ -1,0 +1,4 @@
+def main(private field a0, private field a1, private field a2, private field a3, field a5) -> (field): 
+    field res = (if a0 >= 61021 then (if a1 < 34573 then (if a2 < 63912 then (if a3 < 54169 then  1 else 0 fi) else 0 fi) else 0 fi) else 0 fi)
+    field verify = if res == a5 then 1 else 0 fi
+    return verify
